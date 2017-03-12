@@ -1,1 +1,5 @@
-# dual_encoders
+# Dual LSTM Encoder for ranking short textsdfsdfdsfdsfs
+
+
+
+
